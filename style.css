@@ -1,0 +1,122 @@
+
+    #gap h6{
+        color:red;
+    }
+    #different{
+        color:green;
+    }
+    .container p{
+        color:gray;
+    }
+    .cut-image{
+        width:200px;
+    }
+
+    .color-button{
+        background-color:green;
+        color:white;
+        padding:10px 30px;
+        border-radius: 20px;
+        cursor: pointer;
+        border:none;
+    }
+    .background{
+        background-color:lightcyan;
+        padding:15px 40px;
+    
+    }
+    .cut-image2{
+        width:80px;
+    }
+    #gap{
+        margin-bottom: 70px;
+    }
+    .student-info{
+        height:250px;
+        padding-top: 50px;
+        border-radius: 10px;
+    }
+
+    .bg{
+        background-color:lightcyan;
+    }
+
+    #unique{
+        background-color: white;
+            box-shadow:5px 5px 15px lightgray;
+    }
+
+    .cut-image3{
+        width:30px;
+    }
+
+    .card-img-top{
+        padding:20px 20px 20px 20px;
+    }
+
+    .card-footer{
+        background-color: white;
+        border:none;
+    }
+
+    .card{
+        border:none;
+        box-shadow:5px 5px 10px lightgray;
+        border-radius: 15px;
+    }
+
+    .position{
+        text-align: center;
+    }
+
+    #courses, #others, #blog{
+        padding-top: 100px;
+    }
+
+    .cut-image4{
+    width:130px;
+    margin-left: 200px;
+    }
+    .container p{
+        color:black;
+        font-weight:500;
+
+    }
+    #huhu p{
+        /* background-color:black; */
+        color:white
+    }
+    #huhu{
+        background-color: rgba(0, 0, 0, 0.829);
+    }
+    .size{
+        padding-top: 70px;
+        padding-left: 50px;
+
+    }
+
+    .col-md-3{
+        padding-left: 50px;
+
+    }
+
+    #last{
+        background-color: rgba(0, 0, 0, 0.829);
+        color:white;
+        padding-top: 50px;
+        padding-bottom: 20px;
+
+    }
+
+    footer{
+        text-align: center;
+        color:gray;
+    }
+
+    .categories h6{
+        color:gray;
+    }
+
+    #variety{
+        color:gray;
+    }
